@@ -19,9 +19,13 @@ img {
 }
 
 .outer-container {
-display: flex;
-justify-content: center;
-gap: 52px;
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.text {
+  flex-wrap: wrap;
 }
 
 /* do not edit this footer */
